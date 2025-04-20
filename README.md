@@ -2,7 +2,10 @@
 
 🌌 API for generate advance server key from guest account 
 
-api: https://guesttoadvancekey.onrender.com//api/advance/<uid>/<password>
+api: 
+```sh
+https://guesttoadvancekey.onrender.com//api/advance/<uid>/<password>
+```
 
 the example response:
 ```json
